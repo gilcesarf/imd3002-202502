@@ -8,3 +8,4 @@ google
 seaborn
 scipy
 opencv-python
+pyarrow
