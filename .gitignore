@@ -2,9 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+.sfdx
 *.gz
 *.csv
+image-database
 
 # C extensions
 *.so
