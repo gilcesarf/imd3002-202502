@@ -9,3 +9,5 @@ seaborn
 scipy
 opencv-python
 pyarrow
+scikit-posthocs
+openpyxl
